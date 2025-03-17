@@ -69,6 +69,17 @@ section.secondary {
     text-decoration: none;
 }
 
+.embed {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.youtube {
+    aspect-ratio: 16/9;
+    width: 85%;
+}
+
 header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.9)),
         url(../images/scotland.JPG);
@@ -176,6 +187,7 @@ main h5 {
 
 main img {
     opacity: 0.8;
+    filter: brightness(105%) contrast(120%);
 }
 
 .first {
