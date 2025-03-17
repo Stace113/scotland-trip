@@ -224,6 +224,12 @@ footer a {
     padding-top: 100px;
 }
 
+.address {
+    text-decoration: none;
+    font-style: italic;
+    color: rgba(8, 19, 27, 0.9);
+}
+
 @media (max-width: 950px) {
     header {
         padding: 60px 0;
