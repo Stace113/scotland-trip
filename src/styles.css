@@ -255,7 +255,7 @@ footer a {
     }
 
     .card {
-        width: 600px;
+        max-width: 500px;
         height: auto;
         display: block;
         margin: 0px auto;
@@ -286,5 +286,13 @@ footer a {
     .box1 p {
         text-align: center;
         font-size: 15px;
+    }
+
+    main {
+        max-width: 700px;
+    }
+
+    .first {
+        max-width: 300px;
     }
 }
