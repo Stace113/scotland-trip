@@ -224,7 +224,7 @@ footer a {
     padding-top: 100px;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 900px) {
     header {
         padding: 60px 0;
     }
